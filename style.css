@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#sim {
+    height: 100px;
+    background-color: aqua;
+    margin: 0 auto;
+}
