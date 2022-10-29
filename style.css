@@ -5,14 +5,14 @@
 
 #gatinhos {
     height: 80px;
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.452);
     margin: 0 auto;
 }
 
 #raças {
     width: 20%;
     height: 600px;
-    background-color: aqua;
+    background-color: rgba(255, 0, 149, 0.5);
     float: left;
     margin: 0 auto;
 }
@@ -20,7 +20,7 @@
 #informações {
     width: 80%;
     height: 600px;
-    background-color: aquamarine;
+    background-color: rgba(242, 255, 127, 0.719);
     float: left;
     margin: 0 auto;
     margin: 0 auto;
@@ -28,7 +28,7 @@
 
 #frase {
     height: 50px;
-    background-color: aqua;
+    background-color: rgba(0, 255, 0, 0.541);
     clear: both;
 }
 
