@@ -4,26 +4,26 @@
 }
 
 #gatinhos {
-    height: 100px;
+    height: 80px;
     background-color: aqua;
     margin: 0 auto;
 }
 
 #raças {
-    width: 50%;
+    width: 30%;
     height: 600px;
     background-color: aqua;
     float: left;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 
 #informações {
-    width: 80%;
+    width: 70%;
     height: 600px;
     background-color: aquamarine;
     float: left;
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 #frase {
