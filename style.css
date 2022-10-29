@@ -10,20 +10,20 @@
 }
 
 #raças {
-    width: 30%;
+    width: 25%;
     height: 600px;
     background-color: aqua;
     float: left;
-    margin-top: 0px;
+    margin-top: 10px;
 }
 
 #informações {
-    width: 70%;
+    width: 75%;
     height: 600px;
     background-color: aquamarine;
     float: left;
     margin-top: 10px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 }
 
 #frase {
