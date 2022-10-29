@@ -14,7 +14,7 @@
     height: 600px;
     background-color: rgba(255, 0, 149, 0.5);
     float: left;
-    margin-top: auto;
+    margin-top: 10px;
 }
 
 #informações {
@@ -22,8 +22,8 @@
     height: 600px;
     background-color: rgba(242, 255, 127, 0.719);
     float: left;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 #frase {
