@@ -3,8 +3,38 @@
     padding: 0;
 }
 
-#sim {
+#gatinhos {
     height: 100px;
     background-color: aqua;
     margin: 0 auto;
+}
+
+#raças {
+    width: 20px;
+    height: 600px;
+    background-color: aqua;
+    float: left;
+    margin-top: 10%;
+}
+
+#informações {
+    width: 80%;
+    height: 600px;
+    background-color: aquamarine;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#frase {
+    height: 50px;
+    background-color: aqua;
+    clear: both;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
 }
