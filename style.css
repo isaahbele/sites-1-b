@@ -40,6 +40,6 @@ p {
 }
 
 ul {
-    display: flex;
+    display: contents;
     justify-content: center;
 }
