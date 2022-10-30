@@ -40,5 +40,5 @@ p {
 }
 
 ul {
-    justify-content: space-between;
+    display: flex;
 }
