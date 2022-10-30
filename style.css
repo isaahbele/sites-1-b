@@ -40,6 +40,5 @@ p {
 }
 
 ul {
-    display: contents;
-    justify-content: center;
+    justify-content: space-between;
 }
