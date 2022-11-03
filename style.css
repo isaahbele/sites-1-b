@@ -18,12 +18,10 @@
 }
 
 #informações {
-    width: 80%;
-    height: 500px;
-    background-color: rgba(245, 255, 159, 0.719);
+    width: 200px;
+    height: 200px;
     float: left;
-    margin-top: 0px;
-    margin-bottom: 0px;
+ 
 }
 
 #frase {
