@@ -40,6 +40,10 @@ p {
     color: black;
 }
 
+body {
+    color: black;
+}
+
 img {
     width: 400px;
     height: 400px;
@@ -47,8 +51,9 @@ img {
 }
 
 ul {
+    justify-content: space-between;
     list-style-type: decimal;
-    align-items: flex-start;
+    align-items: flex-end;
     padding: 16px;
 }
 
